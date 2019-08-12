@@ -1,0 +1,37 @@
+body {
+  background: #262626;
+  font-family: helvetica, ariel, sans-serif;
+}
+
+header {
+  margin: 20px 0 0 5%;
+}
+
+p {
+  margin: 20px 5%;
+}
+
+h1 {
+  color: #9fbfbf;
+}
+
+h2 {
+  color: #9fbfbf;
+  margin: 10px 10%;
+}
+
+a {
+  color: #9fbfbf;
+}
+
+.grad {
+  padding: 1%;
+  background-color: #f2efeb;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#f2efeb), to(#ffffff));
+  background-image: -webkit-linear-gradient(top, #f2efeb, #ffffff);
+  background-image: -moz-linear-gradient(top, #f2efeb, #ffffff);
+  background-image: -ms-linear-gradient(top, #f2efeb, #ffffff);
+  background-image: -o-linear-gradient(top, #f2efeb, #ffffff);
+}
+
+/*# sourceMappingURL=style.css.map */
